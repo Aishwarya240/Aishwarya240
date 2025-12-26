@@ -11,7 +11,7 @@
   <a href="https://medium.com/@sakibdalal73" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
-  <a href="sakibdalal73@gmail.com" target="_blank">
+  <a href="mailto:sakibdalal73@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -162,13 +162,39 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats</h3>
+
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakib-Dalal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sakib-Dalal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakib-Dalal&theme=dracula&hide_border=false&area=true&radius=16" alt="activity graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakib-Dalal&theme=dracula" alt="profile details" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sakib-Dalal&theme=dracula" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sakib-Dalal&theme=dracula" alt="most commit language" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakib-Dalal&theme=dracula" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sakib-Dalal&theme=dracula&utcOffset=5.5" alt="productive time" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sakib-Dalal&style=flat-square&color=blue" alt="profile views" />
 </div>
 
 ###
