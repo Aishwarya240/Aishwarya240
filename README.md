@@ -5,6 +5,12 @@
 ###
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Sakib+Dalal;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;B.Tech+Student;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/sakib-dalal/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -19,6 +25,16 @@
 ###
 
 <h1 align="center">Hey there 👋 I'm Sakib Dalal</h1>
+
+###
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sakib-Dalal&style=for-the-badge&color=bd93f9" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Sakib-Dalal?style=for-the-badge&color=50fa7b&labelColor=282a36" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Sakib-Dalal?style=for-the-badge&color=ff79c6&labelColor=282a36" alt="stars" />
+</div>
 
 ###
 
@@ -162,7 +178,7 @@
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
+## 📊 GitHub Analytics
 
 
 ###
@@ -173,9 +189,13 @@
 
 ###
 
+<br/>
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakib-Dalal&theme=dracula" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakib-Dalal&theme=dracula" alt="Profile Details" width="100%" />
 </div>
+
+<br/>
 
 ###
 
