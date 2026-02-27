@@ -1,39 +1,33 @@
 <div align="center">
-  <img height="150" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a"  />
+  <img height="150" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1e86d788-24c2-455c-8c47-8512f16f27a3"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Sakib+Dalal;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;B.Tech+Student;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Aishwarya+Patil;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;B.Tech+Student;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sakib-dalal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@sakibdalal73" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
-  <a href="mailto:sakibdalal73@gmail.com" target="_blank">
+  <a href="mailto:aishwaryapatil845@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<h1 align="center">Hey there 👋 I'm Sakib Dalal</h1>
+<h1 align="center">Hey there 👋 I'm Aishwarya Patil</h1>
 
 ###
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sakib-Dalal&style=for-the-badge&color=bd93f9" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Sakib-Dalal?style=for-the-badge&color=50fa7b&labelColor=282a36" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Sakib-Dalal?style=for-the-badge&color=ff79c6&labelColor=282a36" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Aishwarya240&style=for-the-badge&color=bd93f9" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Aishwarya240?style=for-the-badge&color=50fa7b&labelColor=282a36" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Aishwarya240?style=for-the-badge&color=ff79c6&labelColor=282a36" alt="stars" />
 </div>
 
 ###
@@ -42,7 +36,7 @@
 
 ###
 
-<p align="left">I'm Sakib Dalal, an enthusiastic AI and Machine Learning engineer currently pursuing my B.Tech degree. With a passion for innovation and technology, I specialize in developing intelligent systems that make a difference.<br><br>In addition to my expertise in AI and ML, I am a skilled full-stack developer with a strong command of modern frameworks and tools. My knowledge extends to databases, ensuring efficient data management and seamless integration for web applications. I also have hands-on experience with Internet Computer Protocol (ICP), enabling decentralized application development.<br><br>Explore my work, projects, and insights as I continue my journey of learning and creating transformative solutions in the world of technology. Let's connect and build the future together</p>
+<p align="left"> I am an AI & ML Engineer passionate about building intelligent, practical tools that solve real-world problems by combining modern machine-learning techniques with clean, intuitive interfaces. I enjoy working end-to-end from data processing and model training to deployment and user experience — and turning complex algorithms into apps that help users quickly access insights, automate tasks, or explore creativity. With a portfolio spanning chat assistants, summarizers, image generators, and data-analysis tools, I bring a versatile skill set in Python, LLMs, data engineering and UI design, grounded in a drive to make AI accessible, useful, and user-friendly.</p>
 
 ###
 
@@ -184,7 +178,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakib-Dalal&theme=dracula&hide_border=false&area=true&radius=16" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwarya240&theme=dracula&hide_border=false&area=true&radius=16" alt="activity graph" />
 </div>
 
 ###
@@ -192,7 +186,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakib-Dalal&theme=dracula" alt="Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aishwarya240&theme=dracula" alt="Profile Details" width="100%" />
 </div>
 
 <br/>
@@ -200,21 +194,21 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sakib-Dalal&theme=dracula" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sakib-Dalal&theme=dracula" alt="most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aishwarya240&theme=dracula" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aishwarya240&theme=dracula" alt="most commit language" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakib-Dalal&theme=dracula" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sakib-Dalal&theme=dracula&utcOffset=5.5" alt="productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aishwarya240&theme=dracula" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aishwarya240&theme=dracula&utcOffset=5.5" alt="productive time" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sakib-Dalal&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Aishwarya240&style=flat-square&color=blue" alt="profile views" />
 </div>
 
 ###
